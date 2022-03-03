@@ -1,0 +1,222 @@
+.home-left h6:hover {
+    background-color: green;
+}
+
+.header {
+    background-color: #000075;
+}
+
+.up-header {
+    background-color: #0C4FA0;
+}
+
+.container-banner img {
+    width: 100%;
+}
+
+.president-image {
+    margin-top: 120px;
+    padding-left: 165px;
+}
+
+.board-up {
+    font-size: 14px;
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.board-down {
+    font-size: 12px;
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.top-image {
+    height: 300px;
+}
+
+.latest {
+    font-family: poppins;
+    margin-top: 15px;
+    border: 1px solid white;
+    border-top-right-radius: 50%;
+}
+
+.latest-panel, .home-left>h6 {
+    font-family: poppins;
+    background-color: #0C4FA0;
+
+}
+
+.latest-panel {
+    margin-top: 15px;
+    border: 1px solid #2E65A7;
+    border-bottom-left-radius: 100px;
+
+}
+
+.right-side>h6 {
+    font-family: poppins;
+    margin-top: 6px;
+    background-color: #EAE9E9;
+}
+
+#news {
+    background-color: #0C9349;
+    color: white;
+}
+
+#president {
+    background-color: #0C9349;
+    color: white;
+}
+
+.message {
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.message-president {
+    font-family: poppins;
+    text-decoration-line: underline;
+    color: #0C4FA0;
+}
+
+.message-paragraph {
+    color: #0C4FA0;
+}
+
+.middle-image {
+    margin-bottom: 18px;
+    padding-left: 130px;
+}
+
+.see {
+    border: 1px solid #0C4FA0;
+    color: #0C4FA0;
+}
+
+.become {
+
+    border: 1px solid #0C4FA0;
+    color: #0C4FA0;
+}
+
+.latest-panel>li>a>p {
+    margin-left: 25px;
+}
+
+.benefit-item {
+    color: #C08310;
+}
+
+.vision-up {
+    text-decoration-line: underline;
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.vision-down {
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.latest-news {
+    font-family: poppins;
+    text-decoration-line: underline;
+}
+
+.latest-activity {
+    font-family: poppins;
+    text-decoration-line: underline;
+}
+
+.cards>p {
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.cards-time {
+    font-size: 13px;
+}
+
+.message-member {
+    font-family: poppins;
+    text-decoration-color: #0C4FA0;
+    text-decoration-line: underline;
+}
+
+.top-header, .up-header>h6 {
+    font-family: poppins;
+    font-size: 15px;
+}
+
+.english {
+    padding-right: 5px;
+    font-family: 'Mulish';
+    font-weight: bold;
+    background-color: #9400D3;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+.bangla {
+    font-weight: bold;
+    font-family: 'Mulish';
+    border-radius: 2px;
+    text-decoration: none;
+    background-color: white;
+}
+
+.becomes, .login {
+    text-decoration: none;
+    background-color: #0C4FA0;
+}
+
+.footer {
+    font-size: 11px;
+    font-family: poppins;
+    background-color: #0C4FA0;
+}
+
+.members {
+    font-family: poppins;
+    background-color: #0C4FA0;
+}
+
+.gallery-main {
+    color: #0C4FA0;
+    box-shadow: grey;
+    padding: auto;
+    margin: auto;
+}
+
+.gallery {
+    color: #A19191;
+    box-shadow: grey;
+    padding: auto;
+    margin: auto;
+}
+
+.last-panel>p {
+    font-family: poppins;
+    color: #0C4FA0;
+}
+
+.nbr {
+    margin-left: 10px;
+}
+
+/* @media (min-width:1200px) {
+    .container {
+        flex-direction:wrap;
+
+}
+}
+
+@media (max-width:760px) {
+    .container {
+        flex-direction:wrap;
+    }
+
+} */
